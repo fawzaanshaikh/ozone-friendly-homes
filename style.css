@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#div-app-icon {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+
+#div-building-details {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+#btn-calculate {
+    margin-top: 30px;
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+#div-output {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}

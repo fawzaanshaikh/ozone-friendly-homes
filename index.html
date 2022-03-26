@@ -9,6 +9,24 @@
     </head>
 
     <body>
+        <div id="div-app-icon">
+            <img src="Images/papa_earth_icon.png" alt="Papa Earth Icon" height="300px" width="300px">
+        </div>
+
+        <div id="div-building-details">
+            <form action="#">
+                <label for="height">Enter the height of the building: <br></label>
+                <input id="height" type="text"><br>
+                <label for="width">Enter the width of the building: <br></label>
+                <input id="width" type="text"><br>
+
+                <input type="button" id="btn-calculate" onclick="calculateArea()" value="Calculate">
+            </form>
+        </div>
+
+        <div id="div-output">
+            <p id="output"></p>
+        </div>
 
         <script src="script.js"></script>
     </body>
