@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/drawable/bg_gradient.xml" value="0.2045" />
         <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/drawable/round_button.xml" value="0.2045" />
+        <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/drawable/splash_background.xml" value="0.2045" />
+        <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/layout/activity_splash_screen.xml" value="0.16394927536231885" />
         <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2045" />
         <entry key="..\:/Users/fawza/Desktop/Fawzaan/MIT-ADTU/Others/Codebreak-3.0/papa-earth/front-end/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2045" />
       </map>

@@ -4,68 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/papa_earth_icon">
 
-    <TextView
-        android:id="@+id/capturePhotoText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:fontFamily="sans-serif-light"
-        android:text="Capture a Building's Photo"
-        android:textAlignment="center"
-        android:textSize="27sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
-
-    <Button
-        android:id="@+id/btnTakePhoto"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="16dp"
-        android:background="@drawable/round_button"
-        android:backgroundTint="#FA09AD"
-        android:fontFamily="sans-serif-thin"
-        android:foreground="@drawable/round_button"
-        android:foregroundTint="#FA09AD"
-        android:gravity="center_vertical|center_horizontal"
-        android:text="."
-        android:textColor="#fff"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/capturePhotoText" />
-
-    <TextView
-        android:id="@+id/sampleText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="96dp"
-        android:text="."
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnTakePhoto" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="267dp"
-        android:layout_height="268dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/papa_earth_icon" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="142dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="23dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/sampleText"
-        app:srcCompat="@android:drawable/divider_horizontal_dark" />
 </androidx.constraintlayout.widget.ConstraintLayout>
