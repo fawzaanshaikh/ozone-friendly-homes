@@ -39,3 +39,9 @@ body {
     margin: auto;
     text-align: center;
 }
+
+#div-camera {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
