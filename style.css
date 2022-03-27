@@ -2,6 +2,9 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("Images/home_activity_background.png");
+    background-size: 100%;
+    background-attachment: fixed;
 }
 
 #div-app-icon {
