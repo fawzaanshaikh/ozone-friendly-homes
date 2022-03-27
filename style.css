@@ -29,3 +29,10 @@ body {
     margin: auto;
     text-align: center;
 }
+
+#div-location {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
